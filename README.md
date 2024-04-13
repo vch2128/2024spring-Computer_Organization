@@ -10,7 +10,7 @@ git clone https://github.com/nycu-caslab/CO2024_source.git
 ```
 
 ### Labs
-[Spec](https://nycu-caslab.github.io/CO2024/labs/Lab%200.html)
+[Spec](https://nycu-caslab.github.io/CO2024/labs/Lab%200.html)\
 0. ALU
 1. Single Cycle CPU w/ Simple RISC-V Instructions 
 ```
